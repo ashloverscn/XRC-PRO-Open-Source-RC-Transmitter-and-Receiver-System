@@ -13,6 +13,8 @@ https://hackaday.io/page/399158-xrc-pro-open-source-rc-transmitter-and-receiver-
 
 https://www.pcbway.com/project/shareproject/XRC_PRO_Open_Source_RC_Transmitter_and_Receiver_System_bd9ee6c2.html
 
+https://maker.pro/arm-mbed/projects/xrc-pro-open-source-rc-8ch-transmitter-and-receiver-with-stm32
+
 
 Description
 XRC PRO: Open-Source RC Transmitter and Receiver System
