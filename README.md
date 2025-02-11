@@ -7,6 +7,8 @@ Links to original Source:
 
 https://www.instructables.com/XRC-PRO-Open-Source-RC-8CH-Transmitter-and-Receive/
 
+https://projecthub.arduino.cc/diytechos786/xrc-pro-open-source-rc-transmitter-and-receiver-system-with-stm32-nrf24l01-c769f3
+
 https://hackaday.io/page/399158-xrc-pro-open-source-rc-transmitter-and-receiver-system-with-stm32nrf24l01
 
 https://www.pcbway.com/project/shareproject/XRC_PRO_Open_Source_RC_Transmitter_and_Receiver_System_bd9ee6c2.html
