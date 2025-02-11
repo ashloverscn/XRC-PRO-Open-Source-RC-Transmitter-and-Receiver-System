@@ -17,6 +17,8 @@ XRC PRO: Open-Source RC Transmitter and Receiver System
 Overview
 The XRC PRO is an advanced, open-source RC transmitter and receiver system designed to offer professional-level performance in a compact and customizable package. Built around the STM32F103C8T6 microcontroller and the NRF24L01 wireless transceiver module, the XRC PRO provides precise, real-time control for various RC applications like drones, cars, and boats. With a compact design, robust functionality, and user-friendly interface, the XRC PRO is an ideal tool for both hobbyists and professionals.
 
+Links to Youtube Video:
+
 https://youtu.be/UNfOPE7gjmE?si=JsrTXxZbttpd0SDJ
 
 Key Features:
